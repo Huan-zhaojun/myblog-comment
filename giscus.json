@@ -1,0 +1,5 @@
+{
+  "origins": ["https://blog.huan666.de"],
+  "originsRegex": ["http://localhost:[0-9]+"],
+  "defaultCommentOrder": "newest"
+}
