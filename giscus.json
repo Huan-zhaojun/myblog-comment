@@ -1,5 +1,5 @@
 {
-  "origins": ["https://blog.huan666.de"],
+  "origins": ["https://blog.huan666.de","https://huanzhaojun.netlify.app"],
   "originsRegex": ["http://localhost:[0-9]+"],
   "defaultCommentOrder": "newest"
 }
